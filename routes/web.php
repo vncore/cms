@@ -2,6 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// ==========================
+// Use vncore front routes
+// ==========================
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
